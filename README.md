@@ -1,3 +1,3 @@
 # Linux-Shell
 
-Here our private shells
+Splimter private shells
